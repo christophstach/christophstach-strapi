@@ -1,0 +1,16 @@
+{
+    "collectionName": "components_reactjs_texts",
+    "info": {
+        "displayName": "Text",
+        "icon": "align-justify"
+    },
+    "options": {},
+    "attributes": {
+        "Title": {
+            "type": "string"
+        },
+        "Text": {
+            "type": "richtext"
+        }
+    }
+}
